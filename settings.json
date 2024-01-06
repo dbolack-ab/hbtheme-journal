@@ -1,6 +1,6 @@
 {
   "name" : "Journal",
-  "renderer" : "V3",
+  "renderer" : "V4",
   "baseTheme" : false,
   "baseSnippets" : "5ePHB",
   "licenseType"    : "",
